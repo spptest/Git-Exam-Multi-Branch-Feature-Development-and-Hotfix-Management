@@ -1,2 +1,2 @@
 console.log('init');
-console.log('ghost sync');
+console.log('ghost sync WITH security');
